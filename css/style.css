@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.form-content{
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(206, 206, 206);
+    box-sizing: border-box;
+}
+.question-container{
+    background-color:whitesmoke;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
